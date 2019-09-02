@@ -7,7 +7,7 @@
                 "reference": "soustache1 IP",
                 "description": "Description soustache1",
                 "date_debut": "2019-01-01",
-                "date_fin_prevu": "2019-01-02",
+                "date_fin_prevu": "2019-01-01",
                 "heure_tache_prevu": "8",
                 "etat": "terminée",
                 "idparent": "1"
@@ -19,7 +19,7 @@
                 "reference": "soustache2 IP",
                 "description": "Description soustache2 ",
                 "date_debut": "2019-01-03",
-                "date_fin_prevu": "2019-01-04",
+                "date_fin_prevu": "2019-01-03",
                 "heure_tache_prevu": "8",
                 "etat": "terminée",
                 "idparent": "2"
@@ -30,9 +30,9 @@
                 "tache": "tache1 IP",
                 "reference": "soustache3 IP",
                 "description": "Description soustache3 ",
-                "date_debut": "2019-01-05",
-                "date_fin_prevu": "2019-01-06",
-                "heure_tache_prevu": "8",
+                "date_debut": "2019-01-04",
+                "date_fin_prevu": "2019-01-04",
+                "heure_tache_prevu": "4",
                 "etat": "en cours",
                 "idparent": "4"
             },
@@ -42,11 +42,11 @@
                 "tache": "tache1",
                 "reference": "soustache5",
                 "description": "description soustache5",
-                "date_debut": "2019-07-04",
-                "date_fin_prevu": "2019-07-04",
-                "heure_tache_prevu": 8,
-                "etat": "términé",
-                "idparent": 5
+                "date_debut": "2019-01-04",
+                "date_fin_prevu": "2019-01-04",
+                "heure_tache_prevu": "4",
+                "etat": "terminée",
+                "idparent": "5"
             },
             {
                 "id":"5",
@@ -56,9 +56,9 @@
                 "description": "description soustache5",
                 "date_debut": "2019-07-04",
                 "date_fin_prevu": "2019-07-04",
-                "heure_tache_prevu": 8,
+                "heure_tache_prevu": "8",
                 "etat": "en cours",
-                "idparent": 5
+                "idparent": "5"
             }
         
     ]
