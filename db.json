@@ -1,40 +1,44 @@
 {
     "data": [
             {
-                "projet": "Gestion  des projets",
-                "tache": "tache1",
-                "reference": "soustache1",
-                "description": "description soustache1",
-                "date_debut": "2019-07-02",
-                "date_fin_prevu": "2019-07-03",
-                "heure_tache_prevu": 8,
-                "etat": "en attente",
-                "idparent": 1
+                "id":"1",
+                "projet": "Gestion des projets",
+                "tache": "tache1 IP",
+                "reference": "soustache1 IP",
+                "description": "Description soustache1",
+                "date_debut": "2019-01-01",
+                "date_fin_prevu": "2019-01-02",
+                "heure_tache_prevu": "8",
+                "etat": "terminée",
+                "idparent": "1"
             },
             {
-                "projet": "Gestion  des projets",
-                "tache": "tache1",
-                "reference": "soustache2",
-                "description": "description soustache2 ",
-                "date_debut": "2019-07-03",
-                "date_fin_prevu": "2019-07-04",
-                "heure_tache_prevu": 8,
-                "etat": "en attente",
-                "idparent": 2
+                "id":"2",
+                "projet": "Gestion des projets",
+                "tache": "tache1 IP",
+                "reference": "soustache2 IP",
+                "description": "Description soustache2 ",
+                "date_debut": "2019-01-03",
+                "date_fin_prevu": "2019-01-04",
+                "heure_tache_prevu": "8",
+                "etat": "terminée",
+                "idparent": "2"
             },
             {
-                "projet": "Gestion  des projets",
-                "tache": "tache1",
-                "reference": "soustache4",
-                "description": "description soustache4 ",
-                "date_debut": "2019-07-03",
-                "date_fin_prevu": "2019-07-04",
-                "heure_tache_prevu": 8,
-                "etat": "términé",
-                "idparent": 4
+                "id":"3",
+                "projet": "Gestion des projets",
+                "tache": "tache1 IP",
+                "reference": "soustache3 IP",
+                "description": "Description soustache3 ",
+                "date_debut": "2019-01-05",
+                "date_fin_prevu": "2019-01-06",
+                "heure_tache_prevu": "8",
+                "etat": "en cours",
+                "idparent": "4"
             },
             {
-                "projet": "Gestion  des projets",
+                "id":"4",
+                "projet": "Gestion des projets",
                 "tache": "tache1",
                 "reference": "soustache5",
                 "description": "description soustache5",
@@ -43,6 +47,19 @@
                 "heure_tache_prevu": 8,
                 "etat": "términé",
                 "idparent": 5
+            },
+            {
+                "id":"5",
+                "projet": "Gestion des projets",
+                "tache": "tache1",
+                "reference": "soustache5",
+                "description": "description soustache5",
+                "date_debut": "2019-07-04",
+                "date_fin_prevu": "2019-07-04",
+                "heure_tache_prevu": 8,
+                "etat": "en cours",
+                "idparent": 5
             }
+        
     ]
 }
